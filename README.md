@@ -1,4 +1,4 @@
-# Smart-Organiser-For-Dry-Grocery-SODG-
+# Smart-Organiser-For-Dry-Grocery
 
 ## Demonstration Video | https://www.youtube.com/watch?v=vZjnhM0rLtY
 
